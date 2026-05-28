@@ -197,5 +197,6 @@ The script generates:
 
 ## Screenshot of the result
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b6752e98-d7db-4627-bff3-fdb65b84c542" />
+<img width="660" height="419" alt="Screenshot 2026-05-29 013012" src="https://github.com/user-attachments/assets/78036e4c-4e48-4984-922e-0135b09846dd" />
+
 
