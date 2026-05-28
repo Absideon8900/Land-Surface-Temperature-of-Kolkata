@@ -1,2 +1,2 @@
-# Land-Surface-Temperature-of-Kolkata
+# Land Surface Temperature of Kolkata
 Estimation of Land Surface Temperature of Kolkata in Celsius
