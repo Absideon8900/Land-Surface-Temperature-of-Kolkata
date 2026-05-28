@@ -194,3 +194,8 @@ The script generates:
 
 - **Google Earth Engine** - For satellite data processing and analysis
 - **Landsat 8** - Thermal infrared data source
+
+## Screenshot of the result
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b6752e98-d7db-4627-bff3-fdb65b84c542" />
+
